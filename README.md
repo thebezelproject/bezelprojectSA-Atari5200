@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-Atari5200/blob/master/retroarch/overlay/GameBezels/Atari2600/BerZerk%20(USA).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-Atari5200/blob/master/retroarch/overlay/GameBezels/Atari5200/BerZerk%20(USA).png?raw=true)
